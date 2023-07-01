@@ -1,6 +1,6 @@
 def piro(one, two):
-    return 3 5
+    return 1
 
-def function():
-    print("함수")
-    return 1;
+def product_display():
+    print("나는 상품")
+    return 1
